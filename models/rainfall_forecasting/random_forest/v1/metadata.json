@@ -1,6 +1,6 @@
 {
     "model_version": "v1",
-    "train_years": "2018-2022",
+    "train_years": "2021-2022",
     "target": "RAINFALL(T+1)",
-    "training_timestamp": "2026-09-08T17:50:00.540571"
+    "training_timestamp": "2026-09-10T00:37:42.829353"
 }

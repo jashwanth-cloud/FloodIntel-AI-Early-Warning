@@ -1,0 +1,19 @@
+{
+    "model_version": "v2",
+    "train_years": "2021-2022",
+    "target": "RAINFALL(T+1)",
+    "features": [
+        "RAINFALL",
+        "lag_1",
+        "rolling_mean_3"
+    ],
+    "n_estimators": 10,
+    "max_depth": 20,
+    "min_samples_leaf": 2,
+    "random_state": 42,
+    "training_samples": 3593936,
+    "train_mae": 3.6024048779474227,
+    "train_rmse": 8.74727124296429,
+    "train_r2": 0.42458936746256015,
+    "training_timestamp": "2026-09-10T01:07:40.045514"
+}
