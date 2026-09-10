@@ -10,3 +10,4 @@ xarray
 joblib
 pandas
 scikit-learn==1.9.0
+gunicorn
